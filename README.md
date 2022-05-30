@@ -79,9 +79,7 @@ Uniformity	After examining the data, we have seen that the Data seemed to be uni
 
 
 
-
-Q3)
-1.	Summery
+Summery
 A New York City taxi driver was allegedly handed the first traffic violation in the United States around May 20, 1899, while driving at a speed of more than 12 miles per hour. Since then, various fines for traffic violations have been imposed across the country, and states have collected unfathomable billions of moneys from taxi driver violators.
 There are 2 kinds of traffic violations: big and small violation. The most common violations are parking violations, which are not recorded on a driver's record but can lead to arrest if not paid.
 The most frequent type of traffic violation is exceeding the posted speed limit. The speed limits are determined by the state. People in penal institutions and detention centers were also given health and demographic information as part of the Times' data collection project. 
@@ -105,7 +103,7 @@ What's the relationship between driver_gender and is_arrested	driver_gender	is_a
 Our Research Question is: What is the relationship between driver race and the arrested? We will manage to do that, by investigating the independent variable driver_race, and driver_gender, compared to the dependent variable is_arrested. 
 
  
-4.	Analysis & findings 
+Analysis & findings 
 
 convincing correlations
 We are aiming to investigate the relationship between gender, and race of the driver, and being arrested. 
